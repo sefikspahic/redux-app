@@ -2,7 +2,6 @@
 My Redux app
 # Running Locally
 1. git clone https://...
-2. cd redux-app
 3. npm install
 4. npm start
 # Location
